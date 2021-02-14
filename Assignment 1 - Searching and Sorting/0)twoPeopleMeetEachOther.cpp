@@ -1,3 +1,5 @@
+// Link: https://www.geeksforgeeks.org/check-if-two-people-starting-from-different-points-ever-meet/
+
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long
