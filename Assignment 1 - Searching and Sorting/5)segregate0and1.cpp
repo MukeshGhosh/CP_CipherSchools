@@ -1,3 +1,5 @@
+// Link: https://www.geeksforgeeks.org/segregate-0s-and-1s-in-an-array-by-traversing-array-once/
+
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long
