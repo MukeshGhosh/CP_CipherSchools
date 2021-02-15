@@ -1,3 +1,5 @@
+// Link: https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/
+
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long
@@ -23,6 +25,6 @@ int minPlat(vector<int> arr, vector<int> dept){
 int main(){
   vector<int> arrival = {900, 940, 950, 1100, 1500, 1800};
   vector<int> departure = {910, 1200, 1120, 1130, 1900, 2000};
-  cout << minPlat(arrival, departure);
+  cout << minPlat(arrival, departure) << '\n';
   return 0;
 }
