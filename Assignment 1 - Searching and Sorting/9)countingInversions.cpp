@@ -1,3 +1,5 @@
+// Link: https://www.geeksforgeeks.org/counting-inversions/
+
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long
