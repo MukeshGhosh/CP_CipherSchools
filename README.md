@@ -1,2 +1,2 @@
 # CP_CipherSchools
-DSA Assignment
+Data Structures And Algorithms - Assignment
